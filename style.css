@@ -1,0 +1,65 @@
+.termetryx{
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    font-family: cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+.tizryx{
+    color: grey;
+    font-size: 24px;
+    font-family: cursive;
+}
+
+.ryx{
+    color: rgb(255, 255, 255);
+    font-size: 26px;
+    font-family: initial;
+    
+}
+.link{
+    text-align: right;
+    font-size: 25px;
+}
+body{
+    background-color: rgb(20, 10, 209);
+}
+.termetryx2{
+    color: rgb(255, 255, 255);
+    text-align: left;
+    text-decoration: underline;
+    font-size: 26px;
+}
+
+.za3ketryx{
+    text-align: left;
+    font-size: 26px;
+    color: rgb(165, 113, 50);
+    
+}
+
+h1{
+    text-decoration: underline;
+    color: white;
+    
+}
+.fomryx{
+    font-size: 26px;
+    color: rgb(165, 112, 48);
+
+}
+
+h2{
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+label{
+    font-size: 26px;
+    color: white;
+    
+}
